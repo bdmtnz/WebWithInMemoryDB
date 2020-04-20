@@ -1,0 +1,5 @@
+dotnet add package NSwag.AspNetCore --version 13.4.2 [Swagger]
+dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 3.1.3 [InMemory]
+dotnet add package Microsoft.EntityFrameworkCore [EntityFrameWorkCore]
+dotnet add package Microsoft.EntityFrameworkCore.Desing [EFC]
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.3 [ConectarSQLServer]
